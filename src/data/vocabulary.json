@@ -1,0 +1,909 @@
+{
+  "featuredWordId": "serendipity",
+  "dailySessionWordIds": [
+    "serendipity",
+    "nonchalant",
+    "souvenir",
+    "mitigate",
+    "flattered"
+  ],
+  "words": [
+    {
+      "id": "serendipity",
+      "word": "Serendipity",
+      "partOfSpeech": "noun",
+      "category": "vocabulary",
+      "badge": "Featured Word",
+      "pronunciation": "ser-uhn-DIP-i-tee",
+      "ipa": "/ˌser.ənˈdɪp.ə.ti/",
+      "syllables": ["ser", "en", "dip", "i", "ty"],
+      "stressedSyllableIndex": 2,
+      "pronunciationTip": "Place clear emphasis on the third syllable 'DIP' — ser-en-DIP-i-ty.",
+      "meaning": "The happy accident of finding something valuable or delightful when you were not actively looking for it.",
+      "hindiMeaning": "सुखद संयोग — बिना ढूँढे अचानक कुछ बहुत अच्छा मिल जाना",
+      "memoryAssociation": "Picture opening an old library book and discovering a pressed golden leaf bookmark beside a warm cup of tea.",
+      "imageUrl": "/illustrations/serendipity.jpg",
+      "motifKey": "book-leaf",
+      "synonyms": ["happy chance", "good fortune", "fluke"],
+      "antonyms": ["misfortune", "bad luck", "design"],
+      "examples": [
+        "Meeting my future co-founder on a delayed train was pure serendipity.",
+        "Some of the best cafés are discovered through serendipity rather than search engines."
+      ],
+      "quiz": {
+        "question": "Which situation is the clearest example of Serendipity?",
+        "options": [
+          "Studying every night for three months to pass an exam.",
+          "Taking a wrong turn in a new city and stumbling upon a wonderful jazz bookshop.",
+          "Booking a meeting room two weeks in advance.",
+          "Feeling nervous before giving an important speech."
+        ],
+        "correctIndex": 1,
+        "explanation": "'Serendipity' specifically refers to an unplanned, fortunate discovery — taking a wrong turn and finding something delightful."
+      },
+      "isDailyFeatured": true,
+      "inDailyFive": true
+    },
+    {
+      "id": "nonchalant",
+      "word": "Nonchalant",
+      "partOfSpeech": "adjective",
+      "category": "vocabulary",
+      "badge": "Essential",
+      "pronunciation": "non-shuh-LAHNT",
+      "ipa": "/ˌnɒn.ʃəˈlɑːnt/",
+      "syllables": ["non", "cha", "lant"],
+      "stressedSyllableIndex": 2,
+      "pronunciationTip": "Borrowed from French: 'cha' sounds like 'shuh' (not 'chah' as in chair), ending with a soft 'LAHNT'.",
+      "meaning": "Feeling or appearing calmly relaxed, composed, and unbothered even when things around you are tense.",
+      "hindiMeaning": "बेपरवाह और शांत — बिना घबराए बिल्कुल सहज दिखना",
+      "memoryAssociation": "Imagine someone calmly sipping warm coffee on a park bench in a sage coat while autumn winds swirl all around.",
+      "imageUrl": "/illustrations/nonchalant.jpg",
+      "motifKey": "calm-coffee",
+      "synonyms": ["unruffled", "composed", "casual", "collected"],
+      "antonyms": ["anxious", "flustered", "agitated"],
+      "examples": [
+        "She gave a nonchalant shrug even though everyone else in the room looked stressed.",
+        "He tried to sound nonchalant when asking if the interview results were out."
+      ],
+      "quiz": {
+        "question": "How would a nonchalant speaker behave when a projector stops working mid-talk?",
+        "options": [
+          "Panic and cancel the meeting immediately.",
+          "Calmly continue explaining the idea on a whiteboard without losing composure.",
+          "Argue loudly with the technical support team.",
+          "Speak twice as fast out of nervousness."
+        ],
+        "correctIndex": 1,
+        "explanation": "Being 'nonchalant' means appearing calm, relaxed, and unbothered by minor pressure or surprises."
+      },
+      "inDailyFive": true
+    },
+    {
+      "id": "souvenir",
+      "word": "Souvenir",
+      "partOfSpeech": "noun",
+      "category": "pronunciation",
+      "badge": "Pronunciation Focus",
+      "pronunciation": "soo-vuh-NEER",
+      "ipa": "/ˌsuː.vəˈnɪər/",
+      "syllables": ["sou", "ve", "nir"],
+      "stressedSyllableIndex": 2,
+      "pronunciationTip": "Say 'soo' (like soup), a quick 'vuh', then rhyme 'nir' with 'near'. Avoid saying 'sow-ven-er'.",
+      "meaning": "Something meaningful you keep as a reminder of a place visited, a journey, or a special moment.",
+      "hindiMeaning": "यादगार निशानी / स्मृति-चिह्न (किसी यात्रा या खास पल की याद)",
+      "memoryAssociation": "A brass pocket compass, a pressed sage leaf, and a stamped postcard kept neatly from a memorable trip.",
+      "imageUrl": "/illustrations/souvenir.jpg",
+      "motifKey": "compass-postcard",
+      "synonyms": ["keepsake", "memento", "token"],
+      "antonyms": ["throwaway", "disposable"],
+      "examples": [
+        "I bought a small handmade ceramic mug in Jaipur as a souvenir.",
+        "We kept the concert ticket stub as a souvenir of our first trip together."
+      ],
+      "quiz": {
+        "question": "Which syllable carries the main stress in SOUVENIR (/ˌsuː.vəˈnɪər/)?",
+        "options": [
+          "First syllable: SOO-vuh-neer",
+          "Second syllable: soo-VUH-neer",
+          "Third syllable: soo-vuh-NEER",
+          "All syllables have equal stress"
+        ],
+        "correctIndex": 2,
+        "explanation": "In English, 'souvenir' retains its French-inspired final stress: soo-vuh-NEER."
+      },
+      "inDailyFive": true
+    },
+    {
+      "id": "mitigate",
+      "word": "Mitigate",
+      "partOfSpeech": "verb",
+      "category": "vocabulary",
+      "badge": "Workplace Essential",
+      "pronunciation": "MIT-i-gayt",
+      "ipa": "/ˈmɪt.ɪ.ɡeɪt/",
+      "syllables": ["mit", "i", "gate"],
+      "stressedSyllableIndex": 0,
+      "pronunciationTip": "Start crisp on 'MIT' (rhymes with sit), followed by a light 'i' and 'gate'.",
+      "meaning": "To make something harmful, unpleasant, or risky less severe, serious, or painful.",
+      "hindiMeaning": "कम करना / गंभीरता या जोखिम का असर घटाना",
+      "memoryAssociation": "Holding a sturdy sage umbrella over a warm glowing lantern so the rain cannot put out its flame.",
+      "imageUrl": "/illustrations/mitigate.jpg",
+      "motifKey": "umbrella-lantern",
+      "synonyms": ["alleviate", "reduce", "lessen", "cushion"],
+      "antonyms": ["aggravate", "worsen", "intensify"],
+      "examples": [
+        "We need to mitigate the risks before launching the payment update.",
+        "Planting shade trees along streets helps mitigate extreme summer heat."
+      ],
+      "quiz": {
+        "question": "Which sentence uses Mitigate correctly?",
+        "options": [
+          "I want to mitigate my vocabulary.",
+          "We need to mitigate the risks.",
+          "She mitigated to the office.",
+          "He is very mitigate."
+        ],
+        "correctIndex": 1,
+        "explanation": "'Mitigate' is a transitive verb used with negative outcomes like risks, damage, delays, or harm ('mitigate the risks'). It is not an adjective or a verb of motion."
+      },
+      "conversationId": "conv-mitigate",
+      "inDailyFive": true
+    },
+    {
+      "id": "flattered",
+      "word": "Flattered",
+      "partOfSpeech": "adjective",
+      "category": "phrases",
+      "badge": "Real Conversation",
+      "pronunciation": "FLAT-erd",
+      "ipa": "/ˈflæt.ərd/",
+      "syllables": ["flat", "tered"],
+      "stressedSyllableIndex": 0,
+      "pronunciationTip": "Stress 'FLAT' cleanly; the ending '-tered' is soft and quick, like 'terd'.",
+      "meaning": "Feeling genuinely pleased, honoured, and appreciative because someone has complimented or chosen you.",
+      "hindiMeaning": "प्रशंसा से सम्मानित और खुश महसूस करना ('यह सुनकर मुझे बहुत खुशी/सम्मान महसूस हुआ')",
+      "memoryAssociation": "Smiling warmly with modest gratitude when a colleague praises the clarity of your presentation.",
+      "imageUrl": "/illustrations/flattered.jpg",
+      "motifKey": "warm-praise",
+      "synonyms": ["honoured", "pleased", "graced"],
+      "antonyms": ["offended", "insulted", "indifferent"],
+      "examples": [
+        "Thank you! I'm flattered that you thought of me for the panel.",
+        "I was really flattered by her kind feedback on my design portfolio."
+      ],
+      "quiz": {
+        "question": "When someone says 'Your report was the clearest one this quarter,' what is the most natural response using Flattered?",
+        "options": [
+          "Thank you! I'm really flattered — I put a lot of thought into it.",
+          "Yes, I flattered the report yesterday.",
+          "Don't be flattered to me.",
+          "I am flattering about my report."
+        ],
+        "correctIndex": 0,
+        "explanation": "'I'm flattered' means 'I feel honoured by your compliment.' Remember: the person giving praise flatters you; you feel flattered."
+      },
+      "conversationId": "conv-flattered",
+      "inDailyFive": true
+    },
+    {
+      "id": "ephemeral",
+      "word": "Ephemeral",
+      "partOfSpeech": "adjective",
+      "category": "vocabulary",
+      "badge": "Expressive",
+      "pronunciation": "ih-FEM-er-uhl",
+      "ipa": "/ɪˈfem.ər.əl/",
+      "syllables": ["e", "phem", "er", "al"],
+      "stressedSyllableIndex": 1,
+      "pronunciationTip": "'ph' sounds like 'f' — ih-FEM-er-uhl.",
+      "meaning": "Lasting for only a very short time; fleeting and delicate.",
+      "hindiMeaning": "क्षणभंगुर / बहुत थोड़े समय तक रहने वाला",
+      "memoryAssociation": "Dandelion seeds and blossom petals drifting across golden evening light before vanishing into the breeze.",
+      "imageUrl": "/illustrations/ephemeral.jpg",
+      "motifKey": "dandelion-breeze",
+      "synonyms": ["fleeting", "transient", "short-lived", "momentary"],
+      "antonyms": ["enduring", "permanent", "timeless"],
+      "examples": [
+        "Rainbow light after monsoon rain is beautiful precisely because it is ephemeral.",
+        "Viral internet trends are often ephemeral, fading within a week."
+      ],
+      "quiz": {
+        "question": "Which of the following would best be described as Ephemeral?",
+        "options": [
+          "A granite mountain range.",
+          "Morning mist that disappears twenty minutes after sunrise.",
+          "A thirty-year home mortgage.",
+          "The laws of gravity."
+        ],
+        "correctIndex": 1,
+        "explanation": "'Ephemeral' describes things that exist only briefly, like morning mist, cherry blossoms, or fleeting moods."
+      }
+    },
+    {
+      "id": "lose-vs-loose",
+      "word": "Lose",
+      "partOfSpeech": "verb",
+      "category": "confusing",
+      "badge": "Confusing Trio",
+      "pronunciation": "LOOZ",
+      "ipa": "/luːz/",
+      "syllables": ["lose"],
+      "stressedSyllableIndex": 0,
+      "pronunciationTip": "'Lose' (verb) ends with a voiced /z/ sound like 'choose'. 'Loose' (adjective) has two o's and ends with a sharp /s/ like 'goose'.",
+      "meaning": "To misplace something so you can no longer find it, or fail to win a game or argument.",
+      "hindiMeaning": "खो देना / हार जाना (जबकि Loose = ढीला, और Loss = नुकसान)",
+      "memoryAssociation": "Lose has lost one 'o' (खो देना). Loose has two 'o's, so there is extra room inside — ढीला!",
+      "motifKey": "keys-knot",
+      "synonyms": ["misplace", "forfeit", "drop"],
+      "antonyms": ["find", "recover", "win"],
+      "examples": [
+        "Keep your metro card in your zip pocket so you don't lose it.",
+        "If we lose focus now, we might miss Friday's deadline."
+      ],
+      "quiz": {
+        "question": "Choose the sentence that uses Lose, Loose, and Loss accurately:",
+        "options": [
+          "Be careful not to loose your keys.",
+          "This jacket feels too lose on my shoulders.",
+          "The screw on my glasses is loose, and I don't want to lose the lens.",
+          "Their team suffered a heavy lose yesterday."
+        ],
+        "correctIndex": 2,
+        "explanation": "'Loose' (ढीला) describes the screw; 'lose' (खो देना) is the action of misplacing the lens."
+      },
+      "confusingSetId": "set-lose-loose-loss"
+    },
+    {
+      "id": "mischievous",
+      "word": "Mischievous",
+      "partOfSpeech": "adjective",
+      "category": "pronunciation",
+      "badge": "3 Syllables Only",
+      "pronunciation": "MIS-chuh-vuhs",
+      "ipa": "/ˈmɪs.tʃɪ.vəs/",
+      "syllables": ["mis", "chie", "vous"],
+      "stressedSyllableIndex": 0,
+      "pronunciationTip": "Common trap: there are ONLY 3 syllables (MIS-chuh-vuhs), never 4 ('mis-CHEE-vee-uhs'). Notice there is no 'i' after the 'v'!",
+      "meaning": "Playfully causing small trouble or teasing people in a clever, harmless way.",
+      "hindiMeaning": "शरारती / नटखट (हल्की-फुल्की मज़ेदार शरारत करने वाला)",
+      "memoryAssociation": "A clever cat with a mischievous glint hiding one sock behind the sofa — playful, not harmful.",
+      "motifKey": "playful-spark",
+      "synonyms": ["playful", "impish", "cheeky", "teasing"],
+      "antonyms": ["well-behaved", "solemn", "obedient"],
+      "examples": [
+        "He flashed a mischievous smile before revealing the surprise birthday cake.",
+        "The puppy has a mischievous habit of untying everyone's shoelaces."
+      ],
+      "quiz": {
+        "question": "Which pronunciation of Mischievous is standard in careful English?",
+        "options": [
+          "mis-CHEE-vee-uhs (4 syllables)",
+          "MIS-chuh-vuhs (3 syllables, stress on MIS)",
+          "mis-CHAI-vohs",
+          "mish-CHEEV-us"
+        ],
+        "correctIndex": 1,
+        "explanation": "'Mischievous' has three syllables — MIS-chuh-vuhs (/ˈmɪs.tʃɪ.vəs/) — with stress right at the beginning."
+      }
+    },
+    {
+      "id": "pragmatic",
+      "word": "Pragmatic",
+      "partOfSpeech": "adjective",
+      "category": "vocabulary",
+      "badge": "Clear Thinking",
+      "pronunciation": "prag-MAT-ik",
+      "ipa": "/præɡˈmæt.ɪk/",
+      "syllables": ["prag", "mat", "ic"],
+      "stressedSyllableIndex": 1,
+      "pronunciationTip": "Stress the middle syllable 'MAT': prag-MAT-ik.",
+      "meaning": "Solving problems in a sensible, realistic way based on what actually works rather than abstract theory.",
+      "hindiMeaning": "व्यावहारिक / यथार्थवादी (जो असल स्थिति में काम करे उस पर ध्यान देने वाला)",
+      "memoryAssociation": "Choosing sturdy walking shoes over flashy heels when you know you have to walk three kilometres.",
+      "motifKey": "stepping-stones",
+      "synonyms": ["practical", "realistic", "sensible", "grounded"],
+      "antonyms": ["idealistic", "impractical", "unrealistic"],
+      "examples": [
+        "Let's take a pragmatic approach and ship the core features first.",
+        "She gave pragmatic advice on saving money during our first year of work."
+      ],
+      "quiz": {
+        "question": "Which comment sounds most Pragmatic during a tight project week?",
+        "options": [
+          "Let's rebuild the entire website from scratch overnight.",
+          "Let's fix the checkout bug today and schedule the redesign for next month.",
+          "Let's ignore user feedback and hope nobody notices.",
+          "Perfection is the only option regardless of deadlines."
+        ],
+        "correctIndex": 1,
+        "explanation": "A pragmatic decision balances real constraints with practical results."
+      },
+      "conversationId": "conv-pragmatic"
+    },
+    {
+      "id": "subtle",
+      "word": "Subtle",
+      "partOfSpeech": "adjective",
+      "category": "pronunciation",
+      "badge": "Silent Letter 'B'",
+      "pronunciation": "SUT-uhl",
+      "ipa": "/ˈsʌt.əl/",
+      "syllables": ["sub", "tle"],
+      "stressedSyllableIndex": 0,
+      "pronunciationTip": "The letter 'b' is completely silent! Pronounce it exactly like 'SUT-uhl', rhyming with 'shuttle'.",
+      "meaning": "Delicate, understated, or not immediately obvious — requiring close attention to notice.",
+      "hindiMeaning": "सूक्ष्म / बारीक (जो बहुत हल्का और सधा हुआ हो, तुरंत शोर न मचाए)",
+      "memoryAssociation": "A pinch of cardamom in masala chai — you don't see it, yet its subtle warmth changes everything.",
+      "motifKey": "tea-aroma",
+      "synonyms": ["understated", "nuanced", "delicate", "faint"],
+      "antonyms": ["obvious", "blatant", "heavy-handed"],
+      "examples": [
+        "There is a subtle difference in tone between 'Could you?' and 'Would you mind?'",
+        "The room used warm off-white walls with subtle sage accents."
+      ],
+      "quiz": {
+        "question": "How do you pronounce Subtle accurately?",
+        "options": [
+          "SUB-tuhl (pronouncing the b clearly)",
+          "SUT-uhl (the b is completely silent)",
+          "SOOB-til",
+          "suh-BTL"
+        ],
+        "correctIndex": 1,
+        "explanation": "In both 'subtle' (SUT-uhl) and 'subtlety' (SUT-uhl-tee), the 'b' is completely silent."
+      }
+    },
+    {
+      "id": "eloquent",
+      "word": "Eloquent",
+      "partOfSpeech": "adjective",
+      "category": "pronunciation",
+      "badge": "Speaking Grace",
+      "pronunciation": "EL-uh-kwuhnt",
+      "ipa": "/ˈel.ə.kwənt/",
+      "syllables": ["el", "o", "quent"],
+      "stressedSyllableIndex": 0,
+      "pronunciationTip": "Lead with 'EL', keep the middle 'o' neutral ('uh'), and finish softly on 'kwuhnt'.",
+      "meaning": "Expressing ideas and feelings clearly, fluently, and persuasively in speech or writing.",
+      "hindiMeaning": "सुवक्ता / प्रभावशाली और स्पष्ट ढंग से अपनी बात रखने वाला",
+      "memoryAssociation": "Words flowing like a clear mountain stream — effortless to listen to and impossible to forget.",
+      "motifKey": "fountain-nib",
+      "synonyms": ["articulate", "expressive", "well-spoken", "persuasive"],
+      "antonyms": ["inarticulate", "hesitant", "tongue-tied"],
+      "examples": [
+        "She gave an eloquent five-minute toast without looking at a single note.",
+        "Even a short email can feel eloquent when every word is chosen with care."
+      ],
+      "quiz": {
+        "question": "What makes a speaker Eloquent?",
+        "options": [
+          "Using obscure dictionary words that confuse the audience.",
+          "Expressing thoughts with clarity, warmth, and persuasive fluency.",
+          "Speaking louder than everyone else in the room.",
+          "Reading slides word-for-word without pausing."
+        ],
+        "correctIndex": 1,
+        "explanation": "Eloquence is about clarity, grace, and emotional resonance — never showing off difficult words."
+      }
+    },
+    {
+      "id": "candid",
+      "word": "Candid",
+      "partOfSpeech": "adjective",
+      "category": "vocabulary",
+      "badge": "Everyday Tone",
+      "pronunciation": "KAN-did",
+      "ipa": "/ˈkæn.dɪd/",
+      "syllables": ["can", "did"],
+      "stressedSyllableIndex": 0,
+      "pronunciationTip": "Stress 'KAN' (like 'can') followed by 'did'.",
+      "meaning": "Truthful, straightforward, and honest — even when discussing something slightly uncomfortable.",
+      "hindiMeaning": "स्पष्टवादी / सच्चा और बेबाक (बिना बनावट के ईमानदारी से बात कहना)",
+      "memoryAssociation": "Think of a 'candid photograph' — natural, unposed, and genuine rather than artificial.",
+      "motifKey": "camera-lens",
+      "synonyms": ["frank", "forthright", "sincere", "open"],
+      "antonyms": ["guarded", "evasive", "secretive"],
+      "examples": [
+        "Can I be candid with you? The introduction feels a little too long.",
+        "We had a candid conversation about career growth over coffee."
+      ],
+      "quiz": {
+        "question": "If you ask a mentor for 'candid feedback', what are you asking for?",
+        "options": [
+          "Only polite compliments so you feel confident.",
+          "Honest, straightforward observations about both strengths and gaps.",
+          "A very brief one-word reply.",
+          "Feedback written in formal legal language."
+        ],
+        "correctIndex": 1,
+        "explanation": "'Candid feedback' means sincere, unvarnished honesty shared constructively."
+      },
+      "conversationId": "conv-candid"
+    },
+    {
+      "id": "on-the-same-page",
+      "word": "On the same page",
+      "partOfSpeech": "phrase",
+      "category": "phrases",
+      "badge": "Natural Idiom",
+      "pronunciation": "on thuh SAYM payj",
+      "ipa": "/ɒn ðə seɪm peɪdʒ/",
+      "syllables": ["on", "the", "same", "page"],
+      "stressedSyllableIndex": 2,
+      "pronunciationTip": "Link 'on_the' smoothly and give warm emphasis to 'SAME page'.",
+      "meaning": "Having a shared understanding and agreement about goals, plans, or expectations.",
+      "hindiMeaning": "एक ही समझ या सहमति पर होना (ताकि किसी को कोई कन्फ़्यूज़न न रहे)",
+      "memoryAssociation": "Two people reading the exact same page of music in a choir so they sing in harmony.",
+      "motifKey": "open-notebook",
+      "synonyms": ["aligned", "in agreement", "in sync"],
+      "antonyms": ["at cross-purposes", "misaligned"],
+      "examples": [
+        "Let's do a quick five-minute check-in to make sure we're all on the same page.",
+        "Before we email the client, are we on the same page about the timeline?"
+      ],
+      "quiz": {
+        "question": "Which sentence uses 'on the same page' naturally?",
+        "options": [
+          "Let's summarize the next steps so our whole team is on the same page.",
+          "Please write your signature on the same page of my phone.",
+          "He was very same page yesterday.",
+          "I need to page the same meeting."
+        ],
+        "correctIndex": 0,
+        "explanation": "'Be on the same page' is used with 'be' or 'get' to mean sharing clear agreement on a plan."
+      },
+      "conversationId": "conv-same-page"
+    },
+    {
+      "id": "affect-vs-effect",
+      "word": "Affect vs Effect",
+      "partOfSpeech": "verb / noun",
+      "category": "confusing",
+      "badge": "Classic Pair",
+      "pronunciation": "uh-FEKT / ih-FEKT",
+      "ipa": "/əˈfekt/ · /ɪˈfekt/",
+      "syllables": ["af", "fect"],
+      "stressedSyllableIndex": 1,
+      "pronunciationTip": "In everyday rapid speech both sound nearly identical — use the grammar rule RA-VEN: Affect = Verb, Effect = Noun.",
+      "meaning": "Affect (verb) means to influence or change something; Effect (noun) is the result or outcome of that change.",
+      "hindiMeaning": "Affect = प्रभावित करना (क्रिया) · Effect = परिणाम या असर (संज्ञा)",
+      "memoryAssociation": "Remember RAVEN: Remember — Affect is a Verb (Action = A), Effect is a Noun (End result = E).",
+      "motifKey": "ripple-drop",
+      "synonyms": ["influence / outcome", "impact / result"],
+      "antonyms": ["leave unchanged / cause"],
+      "examples": [
+        "Lack of sleep can seriously affect your concentration.",
+        "A short morning walk had a calming effect on my mood."
+      ],
+      "quiz": {
+        "question": "Select the grammatically accurate sentence:",
+        "options": [
+          "How will the new metro line effect your daily commute?",
+          "How will the new metro line affect your daily commute?",
+          "The warm lighting had a cosy affect on the café.",
+          "Rain didn't have any affect on our plans."
+        ],
+        "correctIndex": 1,
+        "explanation": "'Will ___' requires a verb ('affect' = प्रभावित करना). In the other sentences, 'a cosy ___' and 'any ___' require the noun 'effect'."
+      },
+      "confusingSetId": "set-affect-effect"
+    },
+    {
+      "id": "itinerary",
+      "word": "Itinerary",
+      "partOfSpeech": "noun",
+      "category": "pronunciation",
+      "badge": "Tricky Rhythm",
+      "pronunciation": "eye-TIN-er-er-ee",
+      "ipa": "/aɪˈtɪn.ər.ər.i/",
+      "syllables": ["i", "tin", "er", "ar", "y"],
+      "stressedSyllableIndex": 1,
+      "pronunciationTip": "Start with 'EYE' (not 'ih'), stress 'TIN', and glide smoothly over '-er-ar-y' without getting stuck.",
+      "meaning": "A planned route or day-by-day schedule of places to visit and times during a journey.",
+      "hindiMeaning": "यात्रा कार्यक्रम / सफ़र की विस्तृत रूपरेखा",
+      "memoryAssociation": "A neat folded travel card listing train times, hotel check-ins, and morning walks.",
+      "motifKey": "route-map",
+      "synonyms": ["travel plan", "schedule", "route"],
+      "antonyms": ["wandering", "improvisation"],
+      "examples": [
+        "I've shared our weekend Pondicherry itinerary in the group chat.",
+        "We kept one afternoon free on our itinerary just to explore local markets."
+      ],
+      "quiz": {
+        "question": "How does the first syllable of Itinerary sound?",
+        "options": [
+          "Like 'it' (ih-TIN-er-ee)",
+          "Like 'eye' (eye-TIN-er-er-ee)",
+          "Like 'ee' (ee-TIN-ary)",
+          "Silent 'i' (TIN-er-ary)"
+        ],
+        "correctIndex": 1,
+        "explanation": "'Itinerary' starts with the long diphthong /aɪ/ ('eye'), followed by stressed 'TIN'."
+      }
+    },
+    {
+      "id": "compliment-vs-complement",
+      "word": "Complement",
+      "partOfSpeech": "verb / noun",
+      "category": "confusing",
+      "badge": "Spelling Pair",
+      "pronunciation": "KOM-pluh-ment",
+      "ipa": "/ˈkɒm.plɪ.ment/",
+      "syllables": ["com", "ple", "ment"],
+      "stressedSyllableIndex": 0,
+      "pronunciationTip": "Compliment (with 'i') = praise ('I like your work!'). Complement (with 'e') = complete ('goes well together').",
+      "meaning": "To go together so well with something else that each brings out the best qualities in the other.",
+      "hindiMeaning": "पूरक होना / किसी चीज़ की सुंदरता या गुण को पूरा करना (जबकि Compliment = तारीफ़)",
+      "memoryAssociation": "ComplEment has an 'E' like complEte. ComplIment has an 'I' — 'I really admire your presentation!'",
+      "motifKey": "paired-shapes",
+      "synonyms": ["enhance", "pair well with", "complete"],
+      "antonyms": ["clash with", "contradict"],
+      "examples": [
+        "Sage green cushions beautifully complement the warm sand sofa.",
+        "Our analytical and creative skills complement each other well."
+      ],
+      "quiz": {
+        "question": "Fill in the blank: 'Fresh mint chutney ___ crispy samosas wonderfully.'",
+        "options": [
+          "compliments",
+          "complements",
+          "complimenting",
+          "compliant"
+        ],
+        "correctIndex": 1,
+        "explanation": "Chutney doesn't speak praise — it pairs with and completes the flavour, so we spell it 'complements' (with an e)."
+      },
+      "confusingSetId": "set-compliment-complement"
+    }
+  ],
+  "confusingSets": [
+    {
+      "id": "set-lose-loose-loss",
+      "title": "LOSE vs LOOSE vs LOSS",
+      "subtitle": "Three everyday words with different grammar, vowel sounds, and Hindi meanings.",
+      "memoryTrick": "LOSE lost an 'o' (खो देना, ends in /z/). LOOSE has two 'o's = extra space (ढीला, ends in /s/). LOSS is the noun for a setback (नुकसान).",
+      "items": [
+        {
+          "word": "Lose",
+          "partOfSpeech": "verb",
+          "pronunciation": "LOOZ",
+          "ipa": "/luːz/",
+          "hindiMeaning": "खो देना / हारना",
+          "englishMeaning": "To misplace an item or fail to win.",
+          "example": "Please zip your bag so you don't lose your passport."
+        },
+        {
+          "word": "Loose",
+          "partOfSpeech": "adjective",
+          "pronunciation": "LOOS",
+          "ipa": "/luːs/",
+          "hindiMeaning": "ढीला / जो कसा हुआ न हो",
+          "englishMeaning": "Not tight or not firmly fixed in place.",
+          "example": "The handle on this teacup feels slightly loose."
+        },
+        {
+          "word": "Loss",
+          "partOfSpeech": "noun",
+          "pronunciation": "LAWS",
+          "ipa": "/lɒs/",
+          "hindiMeaning": "नुकसान / हानि",
+          "englishMeaning": "The state or fact of losing money, time, or someone valued.",
+          "example": "Her departure from the team was a big loss for our department."
+        }
+      ],
+      "exercises": [
+        {
+          "sentenceWithBlank": "My watch strap is too ___; it keeps sliding down my wrist.",
+          "options": ["lose", "loose", "loss"],
+          "correctWord": "loose",
+          "explanation": "We need an adjective meaning 'not tight' (ढीला) — that is spelled 'loose' with two o's."
+        },
+        {
+          "sentenceWithBlank": "Back up your notes regularly so you never ___ a week of work.",
+          "options": ["lose", "loose", "loss"],
+          "correctWord": "lose",
+          "explanation": "After 'never', we need the verb meaning 'खो देना' — 'lose'."
+        },
+        {
+          "sentenceWithBlank": "Switching off notifications prevented a huge ___ of focus.",
+          "options": ["lose", "loose", "loss"],
+          "correctWord": "loss",
+          "explanation": "After 'a huge ___', we need a noun meaning 'नुकसान / कमी' — 'loss'."
+        }
+      ]
+    },
+    {
+      "id": "set-affect-effect",
+      "title": "AFFECT vs EFFECT",
+      "subtitle": "Action vs outcome — one of the most frequent mix-ups in professional writing.",
+      "memoryTrick": "RAVEN rule: Affect = Action Verb (प्रभावित करना). Effect = End-result Noun (परिणाम / असर).",
+      "items": [
+        {
+          "word": "Affect",
+          "partOfSpeech": "verb",
+          "pronunciation": "uh-FEKT",
+          "ipa": "/əˈfekt/",
+          "hindiMeaning": "प्रभावित करना (असर डालना)",
+          "englishMeaning": "To influence or produce a change in someone or something.",
+          "example": "Heavy monsoon traffic might affect our arrival time."
+        },
+        {
+          "word": "Effect",
+          "partOfSpeech": "noun",
+          "pronunciation": "ih-FEKT",
+          "ipa": "/ɪˈfekt/",
+          "hindiMeaning": "परिणाम / असर",
+          "englishMeaning": "A change or result caused by an action.",
+          "example": "Daily reading has a noticeable effect on how naturally you speak."
+        }
+      ],
+      "exercises": [
+        {
+          "sentenceWithBlank": "Drinking coffee late in the evening can ___ how deeply you sleep.",
+          "options": ["affect", "effect"],
+          "correctWord": "affect",
+          "explanation": "'Can ___' requires an action verb ('affect' = प्रभावित करना)."
+        },
+        {
+          "sentenceWithBlank": "Warm lighting had an immediate calming ___ on everyone in the room.",
+          "options": ["affect", "effect"],
+          "correctWord": "effect",
+          "explanation": "'An immediate calming ___' requires a noun ('effect' = असर)."
+        }
+      ]
+    },
+    {
+      "id": "set-compliment-complement",
+      "title": "COMPLIMENT vs COMPLEMENT",
+      "subtitle": "Identical pronunciation, completely different meanings driven by a single vowel.",
+      "memoryTrick": "ComplIment ('I') = 'I love your work!' (तारीफ़). ComplEment ('E') = complEtes something well (पूरक).",
+      "items": [
+        {
+          "word": "Compliment",
+          "partOfSpeech": "noun / verb",
+          "pronunciation": "KOM-pluh-ment",
+          "ipa": "/ˈkɒm.plɪ.mənt/",
+          "hindiMeaning": "तारीफ़ / प्रशंसा करना",
+          "englishMeaning": "A polite expression of praise or admiration.",
+          "example": "The client paid you a lovely compliment after the demo."
+        },
+        {
+          "word": "Complement",
+          "partOfSpeech": "noun / verb",
+          "pronunciation": "KOM-pluh-ment",
+          "ipa": "/ˈkɒm.plɪ.ment/",
+          "hindiMeaning": "पूरक बनाना / साथ जँचना",
+          "englishMeaning": "Something that completes or brings out the best in another thing.",
+          "example": "Clear charts complement a concise spoken explanation."
+        }
+      ],
+      "exercises": [
+        {
+          "sentenceWithBlank": "Mustard accents ___ warm cream walls without overwhelming the eye.",
+          "options": ["compliment", "complement"],
+          "correctWord": "complement",
+          "explanation": "Colours go together to complete a palette (पूरक होना), so use 'complement' with 'e'."
+        },
+        {
+          "sentenceWithBlank": "She thanked him warmly for the thoughtful ___ on her article.",
+          "options": ["compliment", "complement"],
+          "correctWord": "compliment",
+          "explanation": "Kind praise on an article is a 'compliment' (तारीफ़) with 'i'."
+        }
+      ]
+    },
+    {
+      "id": "set-advice-advise",
+      "title": "ADVICE vs ADVISE",
+      "subtitle": "Uncountable noun vs action verb — plus a crisp /s/ vs /z/ pronunciation shift.",
+      "memoryTrick": "AdvICE rhymes with 'ice' (noun = सलाह; never 'advices'!). AdvISE rhymes with 'wise' (verb = सलाह देना).",
+      "items": [
+        {
+          "word": "Advice",
+          "partOfSpeech": "noun (uncountable)",
+          "pronunciation": "uhd-VYS",
+          "ipa": "/ədˈvaɪs/",
+          "hindiMeaning": "सलाह / परामर्श (संज्ञा)",
+          "englishMeaning": "Helpful guidance or recommendations offered to someone.",
+          "example": "Let me share one useful piece of advice before your interview."
+        },
+        {
+          "word": "Advise",
+          "partOfSpeech": "verb",
+          "pronunciation": "uhd-VYZ",
+          "ipa": "/ədˈvaɪz/",
+          "hindiMeaning": "सलाह देना (क्रिया)",
+          "englishMeaning": "To recommend a course of action to someone.",
+          "example": "I would advise arriving ten minutes early to test the microphone."
+        }
+      ],
+      "exercises": [
+        {
+          "sentenceWithBlank": "My mentor gave me a great piece of ___ about negotiating calmly.",
+          "options": ["advice", "advise", "advices"],
+          "correctWord": "advice",
+          "explanation": "'Advice' is an uncountable noun in English ('a piece of advice', never 'advices')."
+        },
+        {
+          "sentenceWithBlank": "Doctors strongly ___ drinking plenty of water during humid weather.",
+          "options": ["advice", "advise"],
+          "correctWord": "advise",
+          "explanation": "Here 'doctors' perform the action of recommending ('advise' = सलाह देना)."
+        }
+      ]
+    }
+  ],
+  "conversations": [
+    {
+      "id": "conv-flattered",
+      "targetWord": "Flattered",
+      "title": "Receiving a Compliment Gracefully",
+      "registerBadge": "Workplace & Everyday",
+      "hindiMeaning": "प्रशंसा सुनकर विनम्रता से खुशी और सम्मान जताना",
+      "turns": [
+        {
+          "speaker": "A",
+          "name": "Aarav",
+          "line": "I really liked your presentation — the examples made a complex topic feel effortless."
+        },
+        {
+          "speaker": "B",
+          "name": "Meera",
+          "line": "Thank you! I'm flattered. I spent quite a bit of time simplifying those slides.",
+          "isTarget": true
+        }
+      ],
+      "whenToUse": "Use 'I'm flattered' when someone praises your work, invites you to lead something, or pays a sincere compliment. It sounds warm, confident, and modest at the same time.",
+      "professionalTip": "Avoid saying 'You flatter me' unless being playful — in professional English, 'Thank you, I'm flattered!' or 'I'm really flattered you thought of me' sounds genuine and poised.",
+      "completionSetup": {
+        "speakerA": "Rohan: We're putting together a panel on design thinking, and your name came up first.",
+        "promptHint": "Choose the most natural, poised reply using 'flattered':",
+        "options": [
+          "Thank you, Rohan! I'm really flattered — I'd love to hear more about the date and format.",
+          "Thank you, I am flattering to join the panel.",
+          "No, don't flatter the panel.",
+          "Yes, I always flatter my work."
+        ],
+        "correctIndex": 0,
+        "explanation": "'I'm really flattered — I'd love to hear more...' warmly acknowledges the honour and moves the conversation forward professionally."
+      }
+    },
+    {
+      "id": "conv-mitigate",
+      "targetWord": "Mitigate",
+      "title": "Discussing Risks Calmly in a Meeting",
+      "registerBadge": "Professional English",
+      "hindiMeaning": "मीटिंग में किसी संभावित समस्या या जोखिम को कम करने का उपाय बताना",
+      "turns": [
+        {
+          "speaker": "A",
+          "name": "Neha",
+          "line": "What happens if the vendor delays delivery by a week?"
+        },
+        {
+          "speaker": "B",
+          "name": "Kabir",
+          "line": "To mitigate that risk, we've already lined up a backup local supplier.",
+          "isTarget": true
+        }
+      ],
+      "whenToUse": "Use 'mitigate' when showing leadership around problems — instead of promising zero problems, you explain how you will soften or reduce the impact.",
+      "professionalTip": "Strong collocations: 'mitigate the risk', 'mitigate the impact', 'steps to mitigate delays'.",
+      "completionSetup": {
+        "speakerA": "Manager: Moving servers on Monday morning could slow down customer support.",
+        "promptHint": "Complete with a calm, solution-focused response:",
+        "options": [
+          "We can mitigate the impact by running the migration late Sunday night instead.",
+          "We can mitigate the customers on Monday.",
+          "Monday morning is very mitigate for us.",
+          "Let's mitigate to Sunday."
+        ],
+        "correctIndex": 0,
+        "explanation": "'Mitigate the impact by...' is one of the cleanest, most natural ways to propose a safeguard at work."
+      }
+    },
+    {
+      "id": "conv-same-page",
+      "targetWord": "On the same page",
+      "title": "Aligning Before Wrapping Up a Call",
+      "registerBadge": "Team Collaboration",
+      "hindiMeaning": "बातचीत के अंत में यह सुनिश्चित करना कि सबकी समझ एक जैसी है",
+      "turns": [
+        {
+          "speaker": "A",
+          "name": "Priya",
+          "line": "Before we jump off the call, let me recap the three priorities for Friday."
+        },
+        {
+          "speaker": "B",
+          "name": "Dev",
+          "line": "Great idea — it helps make sure we're all on the same page before starting.",
+          "isTarget": true
+        }
+      ],
+      "whenToUse": "Ideal at the beginning or end of meetings, project kick-offs, or even personal travel planning when clarifying expectations politely.",
+      "professionalTip": "Instead of asking 'Did you understand me?' (which can sound blunt), ask 'Are we on the same page?' — it shares responsibility politely.",
+      "completionSetup": {
+        "speakerA": "Ananya: I thought the draft was due Thursday, not Wednesday!",
+        "promptHint": "Reply constructively without sounding accusatory:",
+        "options": [
+          "Glad you mentioned it — let's check the calendar together so we're on the same page.",
+          "You should read the same page faster.",
+          "Let's page the Thursday draft.",
+          "Why are you not same paging?"
+        ],
+        "correctIndex": 0,
+        "explanation": "'So we're on the same page' resolves misunderstandings warmly without blaming anyone."
+      }
+    },
+    {
+      "id": "conv-candid",
+      "targetWord": "Candid",
+      "title": "Asking for Honest Feedback",
+      "registerBadge": "1-on-1 & Mentorship",
+      "hindiMeaning": "बिना झिझक ईमानदार और साफ़ राय माँगना या देना",
+      "turns": [
+        {
+          "speaker": "A",
+          "name": "Vikram",
+          "line": "How did my mock interview sound? Feel free to be completely candid."
+        },
+        {
+          "speaker": "B",
+          "name": "Sana",
+          "line": "Since we're being candid — your technical answers were strong, just slow down slightly at the start.",
+          "isTarget": true
+        }
+      ],
+      "whenToUse": "Use 'Can I be candid?' to soften honest advice before sharing it, or 'Feel free to be candid' when inviting genuine critique.",
+      "professionalTip": "Being 'candid' implies respectful honesty — unlike 'blunt', which can feel harsh.",
+      "completionSetup": {
+        "speakerA": "Colleague: Do you think this landing page headline actually makes sense?",
+        "promptHint": "Offer constructive honesty politely:",
+        "options": [
+          "To be candid, the second line is much clearer than the main headline.",
+          "To be candidly, delete everything.",
+          "This headline has too much candid.",
+          "I will candid your page."
+        ],
+        "correctIndex": 0,
+        "explanation": "'To be candid, ...' signals helpful, respectful honesty before offering a specific suggestion."
+      }
+    },
+    {
+      "id": "conv-pragmatic",
+      "targetWord": "Pragmatic",
+      "title": "Suggesting a Realistic Middle Ground",
+      "registerBadge": "Decision Making",
+      "hindiMeaning": "अवसर और समय को देखते हुए व्यावहारिक रास्ता सुझाना",
+      "turns": [
+        {
+          "speaker": "A",
+          "name": "Karan",
+          "line": "We only have ten days left, so we can't film five custom videos."
+        },
+        {
+          "speaker": "B",
+          "name": "Nisha",
+          "line": "Agreed. A more pragmatic option is filming one strong overview video now and adding the rest next month.",
+          "isTarget": true
+        }
+      ],
+      "whenToUse": "Use 'pragmatic' when steering a group away from perfectionism toward something achievable and effective.",
+      "professionalTip": "Pairing 'a pragmatic option' or 'let's be pragmatic' frames compromises as smart strategy rather than settling for less.",
+      "completionSetup": {
+        "speakerA": "Friend: Should I try learning 50 difficult English words every single day?",
+        "promptHint": "Give wise, realistic encouragement:",
+        "options": [
+          "It's much more pragmatic to learn 5 words deeply each day and actually use them.",
+          "Yes, be pragmatic by forgetting all of them.",
+          "Learning 50 words is very pragmatically noun.",
+          "Don't pragmatic your notebook."
+        ],
+        "correctIndex": 0,
+        "explanation": "Recommending a sustainable habit of 5 deeply learned words a day is the definition of being 'pragmatic'!"
+      }
+    }
+  ]
+}

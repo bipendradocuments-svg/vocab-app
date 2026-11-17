@@ -1,0 +1,17 @@
+{
+  "name": "WordUp — Learn, Remember & Speak",
+  "short_name": "WordUp",
+  "description": "Personal English-learning notebook with active recall, Hindi meanings, pronunciation practice, confusing words, and real conversations.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FAF8F4",
+  "theme_color": "#FAF8F4",
+  "icons": [
+    {
+      "src": "./wordup-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
